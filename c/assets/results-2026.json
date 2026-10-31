@@ -1,0 +1,52 @@
+{
+  "team": 36611,
+  "season": 2026,
+  "eventCode": "USNJSOM1",
+  "date": "2026-10-24",
+  "source": "https://ftc-events.firstinspires.org/2026/USNJSOM1/qualifications",
+  "verifiedOn": "2026-10-31",
+  "matches": [
+    {
+      "match": 2,
+      "alliance": "Blue",
+      "partner": 31127,
+      "score": 34,
+      "opponent": 56
+    },
+    {
+      "match": 7,
+      "alliance": "Red",
+      "partner": 17036,
+      "score": 23,
+      "opponent": 36
+    },
+    {
+      "match": 10,
+      "alliance": "Red",
+      "partner": 13124,
+      "score": 56,
+      "opponent": 37
+    },
+    {
+      "match": 12,
+      "alliance": "Red",
+      "partner": 32830,
+      "score": 28,
+      "opponent": 27
+    },
+    {
+      "match": 16,
+      "alliance": "Blue",
+      "partner": 37961,
+      "score": 49,
+      "opponent": 36
+    },
+    {
+      "match": 18,
+      "alliance": "Blue",
+      "partner": 23743,
+      "score": 47,
+      "opponent": 55
+    }
+  ]
+}

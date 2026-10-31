@@ -1,0 +1,1 @@
+Extract all files, then open index.html. Keep the assets folder and all pages together. To publish, upload the contents of this folder to your static host. Instagram requires internet.
